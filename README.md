@@ -36,7 +36,3 @@ UI:https://github.com/hyperspot/Ontology-Hyperspot/tree/main/Hyperspot-UI
 ## Youtube
 
 https://youtu.be/i4cJ8GiyB9E
-
-
-
-
